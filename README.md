@@ -3,7 +3,7 @@ A Live Elo rating demo
 
 Manually declare the winner and the probability and rating will be automatically updated
 
-https://github.com/kadmon47/Elorating-React
+https://kadmon47.github.io/Elorating-React
 
 Constant K = 32
 
